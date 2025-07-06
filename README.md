@@ -7,6 +7,7 @@
   - [CSS](#css)
   - [JavaScript](#javascript)
 - [Features](#features)
+- [Output](#output)
 - [Conclusion](#conclusion)
 
 ## Overview
@@ -40,6 +41,12 @@ Java Script adds some dynamics to the page. For illustration, the name sentence 
 - Letter-by-letter typing animation for the name.
 - Inspired by FC Barcelona's color theme (deep red, deep blue, yellow accent).
 - An interactive button that changes to green and displays another message upon clicking.
+
+## Output
+
+The following video shows how the website works and its working principle:
+[Watch the Video] (https://drive.google.com/file/d/1gx7QouIq7bd3M_35A6pD9THcvIcsKytD/view?usp=drive_link)
+The video shows that the messages are faded-in vertically, and the name sentence is written letter by letter using through an animation. The interactive button is changed when pressed; the message shifts from “Wait for Me” to “Thanks for Waiting!” into green.
 
 ## Conclusion
 
