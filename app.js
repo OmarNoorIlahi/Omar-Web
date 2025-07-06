@@ -7,11 +7,11 @@ function typeWriter() {
     if (index < nameText.length) {
         nameElement.textContent += nameText.charAt(index);
         index++;
-        setTimeout(typeWriter, 100); // typing speed
+        setTimeout(typeWriter, 100); 
     }
 }
 
-nameElement.textContent = ""; // Clear the text initially
+nameElement.textContent = "";
 typeWriter();
 
 // Button Interaction
