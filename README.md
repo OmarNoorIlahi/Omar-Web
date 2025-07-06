@@ -1,4 +1,4 @@
-# Personal Web Page
+# Omar Web Page 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,27 +11,27 @@
 
 ## Overview
 
-This project is part of Task One under the Web & Applications Programming track, submitted to Smart Methods Company for the 2025 Summer Internship. It showcases a personal web page featuring my information and a brief introduction. The page includes dynamic elements and vibrant colors.
+This is task one under the Webs & Applications Programming track, submitted to Smart Methods company for 2025 Summer Internship. This task depicts a personal web page, containing some personal information and a brief introduction about myself. It also integrates some dynamic features with powerful colors. 
 
 ## Methods
 
-The primary development environment for this project is **Visual Studio**, which provides the necessary tools. The website is built using three programming languages: **HTML**, **CSS**, and **JavaScript**.
+First of all, the main environment is **Visual Studio** as this program provides the required tools for the task. Three different programming languages are utilized to build the website, including  **HTML**, **CSS**, and **JavaScript**.
 
 ### HTML
 
-HTML is utilized to create the structure of the website. The title of the page is "OMAR NOOR ILAHI." Since this is a single-page website, it consists of one head, body, and section, displaying welcome messages and information about me.
+The HTML is used to build the structure of the website. The title of the page is my name “OMAR NOOR ILAHI”. The website is only one page, so it consists of only one head, body, and section, displaying welcome messages and who is Omar. 
 
 > **Note:** The HTML code is available as a separate file in the repository.
 
 ### CSS
 
-CSS is used to style the page, including sizes, fonts, colors, backgrounds, and animations. The color scheme is inspired by my favorite football team, FC Barcelona. The text is centered and animated with a fade-in effect.
+The CSS is utilized to add style on the page, including sizes, fonts, colors, background, and animation. The color scheme is inspired by my favorite football team, FC Barcelona. Additionally, the text is aligned and sized exactly in the middle of the page, and it is animated with a fade-in effect. 
 
 > **Note:** The CSS code is available as a separate file in the repository.
 
 ### JavaScript
 
-JavaScript adds dynamic features to the page. For example, the name is displayed using a typing animation. Additionally, the button is interactive, featuring hover and click effects.
+Java Script adds some dynamics to the page. For illustration, the name sentence is displayed using a typing animation. Furthermore, the button is interactive as it is pressable with hover and click effects. 
 
 > **Note:** The JavaScript code is available as a separate file in the repository.
 
@@ -43,4 +43,4 @@ JavaScript adds dynamic features to the page. For example, the name is displayed
 
 ## Conclusion
 
-This website is just the beginning of a larger project. Future updates will include sections for internships, projects, and skills, ultimately serving as my personal portfolio. Stay tuned for more!
+Finally, this website is only the first step into something bigger soon. More sections such as internships, projects and skills will be added to complete the big picture of the page. This website will constitute my personal portfolio in the future, so wait for me! 
